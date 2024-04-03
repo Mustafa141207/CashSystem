@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.avatar{
+    width: 80px;
+    height: 80px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.icons{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
